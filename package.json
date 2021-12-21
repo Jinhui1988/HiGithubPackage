@@ -16,4 +16,7 @@
     "url": "https://github.com/Jinhui1988/HiGithubPackage/issues"
   },
   "homepage": "https://github.com/Jinhui1988/HiGithubPackage#readme"
+  "publishConfig": {
+    "@Jinhui1988:HiGithubPackage": "https://npm.pkg.github.com"
+  }
 }
